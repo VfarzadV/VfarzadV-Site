@@ -16,7 +16,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "فرزاد | توسعه‌دهنده فرانت‌اند و ری‌اکت",
+  title: "Farzad | Frontend Developer",
   description:
     "پورتفولیو شخصی فرزاد، توسعه‌دهنده وب متخصص در React، Next.js، TypeScript و Tailwind CSS",
   keywords: [
